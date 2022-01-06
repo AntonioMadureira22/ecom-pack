@@ -5,5 +5,26 @@
     "init": "^0.1.2",
     "mysql2": "^2.3.3",
     "sequelize": "^6.12.5"
-  }
+  },
+  "name": "ecom-pack",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioMadureira22/ecom-pack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioMadureira22/ecom-pack/issues"
+  },
+  "homepage": "https://github.com/AntonioMadureira22/ecom-pack#readme"
 }
